@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>4a2a5870-4d3f-436e-92a7-9084eaf97292</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>TetShared</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Board.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)cButton.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Drawable.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DrawVisitor.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FallingPiece.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Game1.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Grid.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IDrawVisitor.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)NextPiece.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Screen.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Shape.cs" />
+  </ItemGroup>
+</Project>

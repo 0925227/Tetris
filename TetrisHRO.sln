@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "TetShared", "TetShared\TetShared.shproj", "{4A2A5870-4D3F-436E-92A7-9084EAF97292}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TetDesk", "TetDesk\TetDesk.csproj", "{A45224DC-D870-44A7-B865-B8F655291F45}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		TetShared\TetShared.projitems*{4a2a5870-4d3f-436e-92a7-9084eaf97292}*SharedItemsImports = 13
+		TetShared\TetShared.projitems*{a45224dc-d870-44a7-b865-b8f655291f45}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A45224DC-D870-44A7-B865-B8F655291F45}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{A45224DC-D870-44A7-B865-B8F655291F45}.Debug|x86.ActiveCfg = Debug|x86
+		{A45224DC-D870-44A7-B865-B8F655291F45}.Debug|x86.Build.0 = Debug|x86
+		{A45224DC-D870-44A7-B865-B8F655291F45}.Release|Any CPU.ActiveCfg = Release|x86
+		{A45224DC-D870-44A7-B865-B8F655291F45}.Release|x86.ActiveCfg = Release|x86
+		{A45224DC-D870-44A7-B865-B8F655291F45}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
