@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Android</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Indra/documents/visual studio 2015/Projects/TetrisHRO/TetAndroid/Content/BackB.png</File>
+    <File>C:/Users/Indra/documents/visual studio 2015/Projects/TetrisHRO/TetAndroid/Content/BG1.png</File>
+    <File>C:/Users/Indra/documents/visual studio 2015/Projects/TetrisHRO/TetAndroid/Content/BG2.png</File>
+    <File>C:/Users/Indra/documents/visual studio 2015/Projects/TetrisHRO/TetAndroid/Content/block.png</File>
+    <File>C:/Users/Indra/documents/visual studio 2015/Projects/TetrisHRO/TetAndroid/Content/Exit.png</File>
+    <File>C:/Users/Indra/documents/visual studio 2015/Projects/TetrisHRO/TetAndroid/Content/Mute.png</File>
+    <File>C:/Users/Indra/documents/visual studio 2015/Projects/TetrisHRO/TetAndroid/Content/nextpiececanvas.png</File>
+    <File>C:/Users/Indra/documents/visual studio 2015/Projects/TetrisHRO/TetAndroid/Content/OG.mp3</File>
+    <File>C:/Users/Indra/documents/visual studio 2015/Projects/TetrisHRO/TetAndroid/Content/Score.spritefont</File>
+    <File>C:/Users/Indra/documents/visual studio 2015/Projects/TetrisHRO/TetAndroid/Content/Scores.png</File>
+    <File>C:/Users/Indra/documents/visual studio 2015/Projects/TetrisHRO/TetAndroid/Content/Start.png</File>
+    <File>C:/Users/Indra/documents/visual studio 2015/Projects/TetrisHRO/TetAndroid/Content/Unmute.png</File>
+    <File>C:/Users/Indra/documents/visual studio 2015/Projects/TetrisHRO/TetAndroid/Content/block2.png</File>
+    <File>C:/Users/Indra/documents/visual studio 2015/Projects/TetrisHRO/TetAndroid/Content/nextpiececanvas2.png</File>
+  </SourceFiles>
+</SourceFileCollection>
